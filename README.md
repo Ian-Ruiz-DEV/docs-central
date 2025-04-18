@@ -1,2 +1,9 @@
 # docs-central
-Central repository of personal documentation about my repositories. It includes key concepts, installation of dependencies or requirements, branching strategies, workflows, testing, tool installation and more. It serves as a knowledge base and reference for all my projects.
+
+Welcome! This repository serves as a documentation center for all my projects.
+
+**For detailed information on any topic, please go to the [Wiki](https://github.com/Ian-Ruiz-DEV/docs-central/wiki) section.**
+
+In the Wiki you will find concepts, guides, manuals and all relevant documentation to understand and use my different projects.
+
+Thanks for your interest!
